@@ -2,8 +2,6 @@
 
 # JU.MOVE moves you - sustainable and individual
 
- # Das Taxi – jederzeit verfügbar und individuell. Dafür jedoch teuer und schlecht für die Umwelt. In der Regel fahren nur ein bis zwei Personen mit.  
-
 # Das Taxi – jederzeit verfügbar und individuell. Dafür jedoch teuer und schlecht für die Umwelt. In der Regel fahren nur ein bis zwei Personen mit.  
 
 # Der Bus – umweltfreundlich, zumindest, wenn er ausgefüllt ist. Dafür jedoch nicht zuverlässig und unregelmäßig. Und wenn der Bus fährt, dann von einer Haltestelle, die zehn Minuten entfernt ist.  
