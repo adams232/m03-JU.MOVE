@@ -13,4 +13,4 @@ Unser Dienst bietet zuverlässige Mobilität für alle – egal ob jung, alt ode
 
 Die Abholpunkte und -zeiten werden durch eine KI individuell berechnet und an die Kundschaft und deren Nachfrage angepasst, sodass der maximale Komfort erreicht wird. Diese werden per App über Benachrichtigungen und eine einfach Wegbeschreibung übermittelt. Durch die Vernetzung unserer Fahrzeuge untereinander und mit dem System wird eine maximale Effizienz sichergestellt. Das Zusammenlegen mehrerer Fahrten und die Vermeidung von Leerfahrten steigern die ökologische und ökonomische Nachhaltigkeit. Bei der Wahl unserer Transportmittel legen wir Wert auf Elektromobilität und gehen dazu gezielt Kooperationen mit etablierten Taxiunternehmen ein. In der Zukunft bieten sich weitere Potentiale zur Ausweitung des Dienstes auf andere Märkte mit privaten Fahrenden und einer stärkeren Vernetzung der Fahrzeuge bis hin zum autonomen Fahren. 
 
-# JU.MOVE - Tim Scheit, Julian Selinka, Sandra Weber, Yannis Eilert, Adrian Adams
+# JU.MOVE - Sandra Weber, Tim Scheit, Julian Selinka, Yannis Eilert, Adrian Adams
